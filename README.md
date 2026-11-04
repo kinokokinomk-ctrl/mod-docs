@@ -1,22 +1,13 @@
-# -
-私のMod一覧と更新履歴（バージョン別）、mod仕様書、アップデート予定（リリースノート）
+# My MOD｜RimWorld MOD ドキュメント
 
-# My MOD
+制作したMODの情報をまとめるトップページです。作品名を選ぶと、それぞれのMOD専用ページへ移動します。
 
-このリポジトリは、MODの公式ドキュメントです。
+## 制作MOD一覧
 
-## ドキュメント
+- [Days with Laffey -ラフィーと一緒- \[Azur Lane\]](docs/mods/days-with-laffey/README.md)
+- [ｽﾋﾟｷ스피키斯皮奇Spiki～！](docs/mods/spiki/README.md)
+- [AC-130 Gunship Support-DEATH FROM ABOVE-](docs/mods/ac-130-gunship-support/README.md)
 
-- [更新履歴](CHANGELOG.md)
-- [機能・仕様書](docs/specifications.md)
-- [導入方法](docs/installation.md)
-- [よくある質問](docs/faq.md)
+各MODページから、**更新履歴（バージョン別）**・**MOD仕様書**・**アップデート予定（リリースノート）**に移動できます。
 
-## MODについて
-
-ここにMODの概要を記載します。
-
-## 注意事項
-
-- 本MODの使用は自己責任でお願いします。
-- 対応バージョンや導入条件をご確認ください。
+> 現在はページ構成のみ準備しています。本文は順次追加予定です。
