@@ -1,13 +1,37 @@
 # Days with Laffey -ラフィーと一緒- [Azur Lane]
 
-[← MOD一覧に戻る](../../../README.md)
+[← MOD一覧へ戻る](../../../README.md)
+
+> 「ラフィーちゃんと一緒に、辺境の惑星で暮らそう」
+
+『アズールレーン』の駆逐艦ラフィーをRimWorldのコロニーへ迎える、非公式ファンメイドMODです。眠たげな表情、専用衣装や日常のひとこと、主砲と魚雷を使った戦闘を楽しめます。
+
+**最新の主な更新：v0.7.24「Face Animation Plus」**
+
+[Steam Workshopで見る](https://steamcommunity.com/sharedfiles/filedetails/?id=3819030381)
+
+## このMODでできること
+
+- **ラフィーと暮らす：** 開始後1～3日目に仲間になるイベント。会えなかった場合は3日経過後に通信機やMOD設定から呼び出せます。
+- **表情を楽しむ：** 通常の瞬き、戦闘・睡眠・食事などの表情アニメーション。**Facial Animationは不要**です。
+- **専用装備で戦う：** 127mm単装砲、533mm五連装魚雷、殲滅形態、射線確保、ソロモンの戦神。
+- **日常を彩る：** 専用特性、昼寝、9種類の仕事・生活中のひとこと、緊急撤退・帰還。
+- **追加アイテム：** りんご飴、ウサウサ星のお土産、酸素コーラ、拉菲红酒、新しい軌道商人。
+
+## 動作環境
+
+**RimWorld 1.6／1.7**（1.7はunstable版で動作確認。今後のゲーム更新で不具合が発生する可能性があります）。**必須：Harmony**。DLC不要。RimTalk・Facial Animationは任意です。日本語・英語・簡体字中国語対応。
+
+導入・更新前にセーブデータをバックアップしてください。
 
 ## ドキュメント
 
+- [遊び方・機能一覧](SPECIFICATIONS.md)
 - [更新履歴（バージョン別）](history.md)
-- [MOD仕様書](SPECIFICATIONS.md)
-- [アップデート予定（リリースノート）](RELEASE_NOTES.md)
+- [今後のアップデート予定](RELEASE_NOTES.md)
 
-> **公開状況（2026-11-05）**：v0.7.24 **Face Animation Plus** のWorkshop更新成功。RimWorld **1.6／1.7（1.7はunstableで暫定確認）**、Harmony必須。Facial Animation不要で表情アニメーション対応。日・英・簡体字中国語対応。
->
-> [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3819030381) ／ 仕様書・更新履歴・予定は上記リンクを参照。
+感想・提案・不具合報告は[Steam Workshopのコメント欄](https://steamcommunity.com/sharedfiles/filedetails/?id=3819030381)へどうぞ。
+
+---
+
+非公式・非営利のファンメイド作品です。『アズールレーン』公式・関係各社とは無関係です。画像素材の制作には生成AIを使用しています。
