@@ -1,0 +1,1 @@
+通常のChatGPTからMOD Docs Deskを使ったファイル作成に成功しました。
